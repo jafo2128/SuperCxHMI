@@ -19,4 +19,12 @@ This is SuperCx SCADA/HMI Software's HMI.
    * D:\SuperCx_HMI\LIB\HTMLHELP
 1. 在d:\SuperCx_HMI\bld文件夹中，以管理员权限运行批处理BuildUI.bat，自动完成编译，输出为d:\SuperCx_HMI\bin文件夹，开发环境主程序为CxDev.exe，运行环境主程序为CxRun.exe。 
 
+Hmmm... Little translation still required.. ?
 
+Finally words from us Archivers and Developers.. 
+
+##### Donate
+
+People from time to time wish to donate a little money. Donating won't get you anything special, other than a warm feeling inside, and possibly urge me to produce more freely available material for interesting projects. You can donate via [PayPal](https://www.paypal.com), just click [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3PXVSLXFBS45E) button available below - it will redirect you to the secured PayPal page where you can provide donation amount (there is no minimal value). Any donations are apreciated greatly, and we thank you all in advance for your support along the ways..
+
+[![Donate via PayPal](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3PXVSLXFBS45E)
